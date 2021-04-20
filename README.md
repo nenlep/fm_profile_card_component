@@ -1,5 +1,7 @@
 # Frontend Mentor - Profile card component
 
+https://nenlep.github.io/fm_profile_card_component/https://nenlep.github.io/fm_profile_card_component/
+
 ![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
